@@ -13,7 +13,7 @@ branches:
     - development # DevServer
 
 services:
-  - MySQL
+  - mysql
 
 # install Environment di OS
 before_install:
